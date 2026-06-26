@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <!-- backdrop -->
+  <rect width="16" height="16" fill="#11142b"/>
+  <rect x="0" y="0" width="16" height="1" fill="#2a2f5c"/>
+  <rect x="0" y="15" width="16" height="1" fill="#2a2f5c"/>
+  <rect x="0" y="0" width="1" height="16" fill="#2a2f5c"/>
+  <rect x="15" y="0" width="1" height="16" fill="#2a2f5c"/>
+
+  <!-- cyan glow behind the blade -->
+  <rect x="6" y="1" width="4" height="9" fill="#4cc9f0" opacity="0.14"/>
+
+  <!-- blade -->
+  <rect x="7" y="2" width="2" height="6" fill="#ece8d0"/>
+  <rect x="7" y="2" width="1" height="6" fill="#ffffff"/>
+  <rect x="7" y="1" width="2" height="1" fill="#ece8d0"/>
+
+  <!-- crossguard -->
+  <rect x="4" y="8" width="8" height="1" fill="#ffd166"/>
+  <rect x="4" y="9" width="8" height="1" fill="#c98a00"/>
+
+  <!-- handle -->
+  <rect x="7" y="10" width="2" height="3" fill="#7a5230"/>
+
+  <!-- gem pommel -->
+  <rect x="6" y="13" width="4" height="1" fill="#ffd166"/>
+  <rect x="7" y="14" width="2" height="1" fill="#4cc9f0"/>
+
+  <!-- sparkle -->
+  <rect x="11" y="3" width="1" height="1" fill="#ffd166"/>
+  <rect x="4" y="4" width="1" height="1" fill="#4cc9f0"/>
+</svg>
