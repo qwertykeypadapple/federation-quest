@@ -1,5 +1,7 @@
 # The Federation Quest ⚔️
 
+### ▶ Play it live: **https://federation-quest.onrender.com/**
+
 An RPG-style interactive game that teaches the paper **["Empowering Federated Learning with Implicit Gossiping: Mitigating Connection Unreliability Amidst Unknown and Arbitrary Dynamics"](https://arxiv.org/abs/2404.10091)** (Xiang, Ioannidis, Yeh, Joe-Wong, Su, 2024).
 
 You play a Federation Engineer following quest objectives through seven gated chapters. By solving each quest, you learn the full story of why **FedAvg** is biased under unreliable client connections and how **FedPBC** (Federated Postponed Broadcast) fixes it.
